@@ -16,7 +16,6 @@ Getting Started
 1. **Clone the Repository**:
 ```bash
 git clone https://github.com/your-username/infant-gesture-recognition.git cd infant-gesture-recognition
-cd infant-gesture-recognition
 ```
 2. **Install Dependencies**: Ensure you have Python installed, then use the following command:
 ```bash
