@@ -9,7 +9,7 @@ Features
 --------
 - Pre-trained Gesture Recognition Model: A machine learning model capable of detecting and classifying gestures in video data.
 - Video Preprocessing Utilities: Scripts for preparing video input for the model.
-- Evaluation Tools: Metrics and visualization methods to assess the model's performance.
+- Evaluation Tools: Metrics and visualization methods.
 
 Getting Started
 ---------------
